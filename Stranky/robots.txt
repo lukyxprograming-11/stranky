@@ -1,0 +1,5 @@
+# Informuje všechny roboty (*)
+User-agent: *
+
+# Povoluje přístup k celému webu (kořenový adresář /)
+Allow: /
